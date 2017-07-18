@@ -5,3 +5,4 @@ Method2();
 Method3();
 Method4();
 Method5();
+Method6();
