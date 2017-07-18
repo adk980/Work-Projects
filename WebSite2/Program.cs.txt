@@ -1,3 +1,4 @@
 //TODO
 
 Method1();
+Method2();
